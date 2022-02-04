@@ -1,0 +1,3 @@
+From Cmake Videos: See section 9 part 43.  Use commands find_library() and find_path().  Find_library() looks for a library file.  find_path() looks for a file (e.g. a header) and returns the directory containing it.  
+find_library() is for lib files.
+find_path() is for header files.
